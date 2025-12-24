@@ -76,6 +76,8 @@ Following Carl Sagan's principles from *Contact*:
 4. Begin encrypted communication
 
 ---
+Demo here : https://universal-language-tzolkin-2aafrwp7k8ubh7qmxeqtkc.streamlit.app/
+---
 
 ## 🚀 Quick Start
 
