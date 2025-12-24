@@ -1,0 +1,17 @@
+# --- Cœur du Système (Lichen Kernel) ---
+streamlit>=1.28.0
+numpy>=1.24.3
+pandas>=2.0.3
+
+# --- Visualisation Scientifique (FRIQS & Fractales) ---
+matplotlib>=3.7.1
+seaborn>=0.12.2
+Pillow>=9.5.0
+
+# --- Mathématiques Avancées (Calcul Matriciel & Crypto) ---
+scipy>=1.10.1
+cryptography>=41.0.0
+
+# --- Gestion Réseau & Données (Manifeste & API) ---
+requests>=2.31.0
+watchdog>=3.0.0
