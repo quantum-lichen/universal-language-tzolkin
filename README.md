@@ -1,14 +1,3 @@
-C'est la cerise sur le gâteau ! 🍒
-Avoir un lien "Live Demo" propre dans le README, ça augmente énormément la crédibilité du repo. Les gens (ou les chercheurs) peuvent tester ta théorie sans rien installer.
-
-J'ai ajouté le bouton officiel **"Open in Streamlit"** à deux endroits stratégiques :
-
-1. Tout en haut avec les autres badges (pour la visibilité immédiate).
-2. Dans une nouvelle section **"🔮 Live Demo"** juste après les Innovations (là où tu avais mis ton lien).
-
-Voici ton **README.md** final et complet. Copie-colle ça direct :
-
-```markdown
 # 🌌 Universal Language & Tzolk'in Cryptography
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://universal-language-tzolkin-2aafrwp7k8ubh7qmxeqtkc.streamlit.app/)
