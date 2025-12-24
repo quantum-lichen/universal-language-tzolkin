@@ -87,7 +87,7 @@ Following Carl Sagan's principles from *Contact*:
 
 ## 🔮 Live Demo
 
-Experience the **Tzolk'in Kernel** logic and the **FRIQS Fractal Processor** visualization directly in your browser. No installation required.
+Experience the **Tzolk'in Kernel** logic and the **FRIQS Fractal Processor** visualization directly in your browser. No installation required. Link here click on it ! : [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://universal-language-tzolkin-2aafrwp7k8ubh7qmxeqtkc.streamlit.app/)
 
 ---
 
